@@ -1,0 +1,32 @@
+img{
+    border-radius: 600px;
+    height: 200px;
+    align-self: center;}
+
+nav{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    margin: 20px;
+}
+
+nav h1{
+    margin-left:10px;
+    margin-top: 5px;
+}
+nav li{
+
+    padding-left: 20px;
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+text-align: center;}
